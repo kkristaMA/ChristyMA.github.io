@@ -29,26 +29,30 @@ My research interests primary lie in the intersection of Human-AI Interaction an
 
 # 📝 Publications 
 
-<!-- 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+ 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HRI'24</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Sorry to Keep You Waiting](https://dl.acm.org/doi/10.1145/3610977.3634959 )
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Xiaoyu Chang, Yanheng Li, Sijia Liu, **Ling Ma**, Ray Lc
 
+<!--
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+-->
+
 </div>
 </div> 
--->
+
 
 <!-- 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** 
 -->
 
 # 🎖 Honors and Awards
-- *2023* HKSAR Government Scholarship Fund
+- *2023*
+  HKSAR Government Scholarship Fund
 
 # 📖 Educations
 - *2024.08 - 2025.12(estimated)*
@@ -64,24 +68,18 @@ My research interests primary lie in the intersection of Human-AI Interaction an
 
 # 💻 Internships
 <!--sensetime-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 SenseTime <a href='https://www.sensetime.com/en'> 
 - May 2023 – Aug.2023
 - Conducted market research and data analysis to support New Retail projects in developing seasonal product distribution strategies to expand its presence in mainland China.
 - Tracked and analyzed user behavioral data to increase user conversion rates, resulting in an increased daily transaction averages by 25% while maintaining unsold products below a 15% threshold.
 
 <!--Hearst-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 SenseTime <a href='https://www.hearst.com/'> 
 - Jun. 2022 – Aug.2022
 - Distilled key differentiated value from competitive research and contributed to advertising fashion products for international brand promotions, including YSL, CHANEL, and ARMANI. 
 - Coordinated with design and client teams to create visually appealing advertisements.
 
 <!--DEWU-->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 DEWU App <a href='https://www.dewu.com/'> 
 - Jun. 2021 – Sep.2021
 - Analyzed the statistical advertising data from RED and WEIBO platforms, and assessed advertising pricing strategies.
