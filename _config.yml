@@ -24,11 +24,11 @@ author:
   name             : "Ling MA"
   avatar           :  # images/cover-image.png
   bio              : 
-  location         : "Ithaca, NY & Hong Kong"
+  location         : "Ithaca & Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=IiOTn1QAAAAJ&hl=en"
-  email            : "lm954@cornell.edu"
+  email            : "mailto:lm954@cornell.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "kkristaMA"
+  github           : "https://github.com/kkristaMA"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/ling-ma-chirsty316
+  linkedin         : "https://www.linkedin.com/in/ling-ma-chirsty316/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
